@@ -1,0 +1,29 @@
+{% load static %}
+{% include 'header.html' %}
+{% include 'sidebar.html' %}
+<!-- Page Content  -->
+<div id="content" class="p-4 p-md-5 pt-5">
+    <h1><p align="center" class="text-info bg-warning">JOB</p></h1></br></br>
+    <center><h1><u><p align="center" class="text-danger"> {{ details.job_title }}</p></u></h1></br>
+      <img src="{{ details.job_pic.url  }}" align="top "></br></br>
+    <h2><p class="text-success">
+       LOCATION    :    {{ details.job_location }}</p>
+    </h2>
+    <h3><p class="text-success">
+       SALARY: {{ details.job_salary }}</p>
+    </h3>
+    <h4><p class="text-success">
+       TYPE: {{ details.job_type }}</p>
+    </h4>
+    <p>
+      <b><u>DESCRIPTION</u>:</b>       {{ details.job_desc }}
+    </p></center>
+    <a  class="btn btn-primary" href="/job/{{ a.id }}">BACK</a>
+    <a  class="btn btn-primary" href="/apply/{{ a.id }}">APPLY</a>
+
+
+
+
+
+    
+  {% include 'footer.html' %}

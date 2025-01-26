@@ -1,0 +1,74 @@
+body{
+    background:url('../images/image3.jpg');
+    background-size:100%;
+}
+.content
+{
+    font-size:7;
+}
+.login{	
+    width:400px;
+    height:500px;
+    background:purple;
+    margin:auto;
+    margin-top:100px;
+    border-radius:5px;
+    color:white;
+    padding:50px;
+}
+.login table{
+    width:100%;
+}
+input[type="email"],input[type="password"]{
+    width:100%;
+    padding:10px;
+    font-size:16px;
+    background:none;
+    border:0;
+    border-bottom:2px solid white;
+    color:white;
+}
+input[type="email"]:focus,input[type="password"]:focus{
+    border:0;
+    border-bottom:2px solid white;
+}
+a{
+color:white;
+}
+input[type="button"]{
+    width:105%;
+    color:rgb(166, 255, 0);
+    padding:10px 5px;
+    background:rgb(255, 153, 0);
+    color:white;
+    font-size:18px;
+    font-weight:bold;
+    border:none;
+    box-shadow:1px 1px 1px 1px white;
+    border-radius:3px;
+}
+#b1{
+    font-size:20px;
+}
+td,th{
+    padding: 10px;
+}
+input[type="button"]:hover
+{
+    background:rgb(3, 202, 252);
+}
+.profile
+{
+    width:150px;
+    height:150px;
+    margin:auto;
+    margin-top:-100px;
+    
+}
+.profile img
+{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    
+}

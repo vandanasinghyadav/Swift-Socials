@@ -1,0 +1,15 @@
+{% load static %}
+{% include 'header.html' %}
+{% include 'sidebar.html' %}
+<!-- Page Content  -->
+<div style="background-color:rgb(210, 248, 196)" id="content" class="p-4 p-md-5 pt-5">
+   <h1><p align="center" class="text-info bg-dark">MYTEAM</p></h1></br></br>
+   <center><h1><u><p align="center" class="text-danger"> {{ details.team_name }}</p></u></h1></br>
+   <img src="{{ details.team_pic.url  }}" align="top "></br></br>
+   <h3><p class="text-success">
+      Title    :    {{ details.team_title }}</p>
+   <p class="text-success">
+      SALARY: {{ details.team_salary }}</p>
+   </h3>
+   </center>
+    {% include 'footer.html' %}

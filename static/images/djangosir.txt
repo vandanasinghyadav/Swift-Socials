@@ -1,0 +1,1232 @@
+Google Workspace
+If you're having trouble loading, visit the Gmail help center <https://
+support.google.com/mail?p=fix-gmail-loading&authuser=1>.
+
+This is taking longer than usual. *Try reloading the page* <https://
+mail.google.com/mail/u/1/?sw=2>.
+
+If that doesn't work, you can:
+
+ 1.
+    If you're on a slow connection, try .
+
+ 2. For more troubleshooting tips, visit the help center <https://
+    support.google.com/mail/answer/8767?src=sl&hl=en>.
+
+None selected
+
+Skip to content
+Using Gmail with screen readers
+Keyboard shortcuts
+Gmail (standard view) guide <https://support.google.com/mail/answer/
+90559?hl=en&authuser=1>
+<#inbox>
+<#inbox>
+
+
+    Search in mail
+
+tab
+
+	
+	
+
+Active
+
+Help
+Training
+Updates
+Send feedback to Google
+<https://www.google.co.in/intl/en/about/products?tab=mh>
+<https://accounts.google.com/SignOutOptions?hl=en&continue=https://
+mail.google.com/mail&service=mail&ec=GBRAFw>
+
+	
+
+99+
+Mail
+1
+Chat
+Meet
+Compose
+
+
+    Labels
+
+Inbox <https://mail.google.com/mail/u/1/#inbox>
+748
+Starred <https://mail.google.com/mail/u/1/#starred>
+Snoozed <https://mail.google.com/mail/u/1/#snoozed>
+Sent <https://mail.google.com/mail/u/1/#sent>
+Drafts <https://mail.google.com/mail/u/1/#drafts>
+More 
+Labels
+
+
+    Labels
+
+More 
+New chat
+ 
+ 
+
+ 
+ 
+Fetching mail...
+ 
+All
+None
+Read
+Unread
+Starred
+Unstarred
+1–50 of 1,220
+ 
+ 
+
+
+    Conversations
+
+1 new
+Primary
+	
+4 new
+Promotions
+Naukri, Chegg, Naukri Women’s Day, Microsoft Copilot
+	
+21 new
+Social
+LinkedIn, Devansh, Rekha, Rayhan, LinkedIn Premium, Facebook, Pankaj,
+Palak, Vidushi Saxena via LinkedIn, Prakash Azad via LinkedIn, Ayush
+Agarwal via LinkedIn, Suraj Pratap Singh via Lin., Rubi Maurya via
+LinkedIn, Saumya Gupta via LinkedIn, Carol Princy Sharon via Li., Ketan
+Singh via LinkedIn, Vanshika Gupta via LinkedIn, SURAJ YADAV via LinkedIn
+	
+ 
+	
+
+
+      Primary
+
+ 
+1–50 of 1,220
+ 
+ 
+Your Primary tab is empty.
+
+Personal messages and messages that don’t appear in other tabs will be
+shown here.
+
+To add or remove tabs click inbox settings.
+
+	
+	Not starred	unread, Dinesh Maurya, (no subject), has attachment,
+10:20 AM, -- Dinesh Kumar Maurya Mob. 9598948810.
+Dinesh Maurya
+	
+(no subject)
+ - -- Dinesh Kumar Maurya Mob. 9598948810
+Attachment:forms.py.txt
+		Has attachment	10:20 AM	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Dinesh Maurya, Django Form, has attachment,
+10:15 AM, -- Dinesh Kumar Maurya Mob. 9598948810.
+Dinesh Maurya
+	
+Django Form
+ - -- Dinesh Kumar Maurya Mob. 9598948810
+Attachment:django notes.txt
+		Has attachment	10:15 AM	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Naukri Alerts, New job - Php And Wordpress
+Developer | More jobs matching your Custom Job Alert - Web Designer For
+A Startup Company, 7:24 AM, PHP and WordPress Developer naukri.com Get
+App Jobs matching your job alert Web Designer For A Startup Company P
+PHP and WordPress Developer Payexel Solutions Noida Web Designer Maxtra
+Technologies 4.0.
+Naukri Alerts
+	
+New job - Php And Wordpress Developer | More jobs matching your Custom
+Job Alert - Web Designer For A Startup Company
+ - PHP and WordPress Developer naukri.com Get App Jobs matching your job
+alert Web Designer For A Startup Company P PHP and WordPress Developer
+Payexel Solutions Noida Web Designer Maxtra Technologies 4.0
+		 	7:24 AM	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Indeed 2, Complete your resume details , 1:36 AM,
+Keep your resume updated ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌.
+Indeed 2
+	
+Complete your resume details 
+ - Keep your resume updated ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌
+Unsubscribe
+		 	1:36 AM	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Indeed, 1 new Python Django Internship Fresher
+vacancy, 12:56 AM, Oxi.Ai Academy has an opportunity for you! ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌.
+Indeed
+	
+1 new Python Django Internship Fresher vacancy
+ - Oxi.Ai Academy has an opportunity for you! ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+Unsubscribe
+		 	12:56 AM	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Naukri, Feedback on your Naukri job applies done
+since last week, Mar 13, Check out how many of your applies from last
+week matched the job preferences you have set in your profile with our
+apply match score. Get feedback on the extent to which your job
+applications match.
+Naukri
+	
+Feedback on your Naukri job applies done since last week
+ - Check out how many of your applies from last week matched the job
+preferences you have set in your profile with our apply match score. Get
+feedback on the extent to which your job applications match
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, no-reply, Verification Code - Accenture, Mar 13,
+Verify your email address Thanks for verifying your
+vandanayadav99390@gmail.com account! Your code is: 686757 Sincerely,
+Accenture This message was sent from an unmonitored email address.
+Please do not.
+no-reply
+	
+Verification Code - Accenture
+ - Verify your email address Thanks for verifying your
+vandanayadav99390@gmail.com account! Your code is: 686757 Sincerely,
+Accenture This message was sent from an unmonitored email address.
+Please do not
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Internshala, ⏲️ Tired of waiting for the employers
+to respond, Student?, Mar 13, Hey Student, How's the job search going?
+Don't worry if you're feeling frustrated. We've got a few tips that can
+help you increase your chances of landing your dream job or internship:.
+Internshala
+	
+⏲️ Tired of waiting for the employers to respond, Student?
+ - Hey Student, How's the job search going? Don't worry if you're
+feeling frustrated. We've got a few tips that can help you increase your
+chances of landing your dream job or internship:
+Unsubscribe
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Best Jobs Online, Welcome to Best Jobs Online, Mar
+13, Hi, Confirming Your Job Alert You signed up at Best Jobs Online for
+email alerts for Full Time Jobs jobs in Lucknow. You will now begin to
+receive daily job alerts when we find new jobs that match your.
+Best Jobs Online
+	
+Welcome to Best Jobs Online
+ - Hi, Confirming Your Job Alert You signed up at Best Jobs Online for
+email alerts for Full Time Jobs jobs in Lucknow. You will now begin to
+receive daily job alerts when we find new jobs that match your
+Unsubscribe
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Savantis Solutions ., Job | Fresher? Looking for
+job? We are hiring freshers, Mar 13, The sender of this email is
+registered with Naukri.com as Savantis Solutions India Pvt Ltd company.
+Do Not forward this email, it contains links which allow direct login to
+your Naukri account. Analyst.
+Savantis Solutions .
+	
+Job | Fresher? Looking for job? We are hiring freshers
+ - The sender of this email is registered with Naukri.com as Savantis
+Solutions India Pvt Ltd company. Do Not forward this email, it contains
+links which allow direct login to your Naukri account. Analyst
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Internshala Trainin., 🫥 Vandana, feeling invisible
+to recruiters?, Mar 13, Hey Vandana, Worried about the hefty price of
+our Full Stack Development Placement Guarantee Course? Take a deep
+breath because we're slashing our fees by ₹6000, but you'll need to act
+fast-.
+Internshala Trainin.
+	
+🫥 Vandana, feeling invisible to recruiters?
+ - Hey Vandana, Worried about the hefty price of our Full Stack
+Development Placement Guarantee Course? Take a deep breath because we're
+slashing our fees by ₹6000, but you'll need to act fast-
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Internshala, Kweesha is hiring Web Developer , Mar
+13, Vandana, check out opportunities matching your experience and
+desired CTC. Apply for free on Internshala Jobs ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌.
+Internshala
+	
+Kweesha is hiring Web Developer
+ - Vandana, check out opportunities matching your experience and desired
+CTC. Apply for free on Internshala Jobs ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, shuKla shrAwan via . 3, shuKla just messaged you,
+Mar 13, 2 new messages await your response ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+shuKla shrAwan via . 3
+	
+shuKla just messaged you
+ - 2 new messages await your response ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Unsubscribe
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Myntra, Blazers That Bring The Heat ❤️‍🔥, Mar 13,
+Fresh Looks You Simply Can't Miss 😎 If you would prefer not receiving
+our emails, please click here to unsubscribe. If you would like to
+experience the best of online shopping for men, women and.
+Myntra
+	
+Blazers That Bring The Heat ❤️‍🔥
+ - Fresh Looks You Simply Can't Miss 😎 If you would prefer not
+receiving our emails, please click here to unsubscribe. If you would
+like to experience the best of online shopping for men, women and
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Naukri Alerts, Vandana Singh Yadav, New Job
+Opportunities for Backend Developer, Software Developer Intern,
+Associate Software Developer, Mar 13, naukri.com Get App Your mid-week
+opportunities are right here! Jobs outside your preference G Backend
+Developer Gomassive Earth Network Gurgaon P Software Developer Intern
+(NodeJS, ReactJS).
+Naukri Alerts
+	
+Vandana Singh Yadav, New Job Opportunities for Backend Developer,
+Software Developer Intern, Associate Software Developer
+ - naukri.com Get App Your mid-week opportunities are right here! Jobs
+outside your preference G Backend Developer Gomassive Earth Network
+Gurgaon P Software Developer Intern (NodeJS, ReactJS)
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, LinkedIn Job Alerts, 4 new jobs for “web
+developer”, Mar 13, SM Real Estate Web Developer/SEO Specialist: Note :
+Must have experience in Python,MySQL… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+LinkedIn Job Alerts
+	
+4 new jobs for “web developer”
+ - SM Real Estate Web Developer/SEO Specialist: Note : Must have
+experience in Python,MySQL… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Unsubscribe
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Internshala Chat, New message from Ayurveda House
+Private Limited, Mar 13, New Message From Ayurveda House Private Limited
+Hi Vandana, Astha from Ayurveda House Private Limited has sent you a
+message on your recent application for Django Developer Internship. View
+and reply.
+Internshala Chat
+	
+New message from Ayurveda House Private Limited
+ - New Message From Ayurveda House Private Limited Hi Vandana, Astha
+from Ayurveda House Private Limited has sent you a message on your
+recent application for Django Developer Internship. View and reply
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Sonal Baghel via Li., Sonal just messaged you, Mar
+13, 1 new message awaits your response ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+Sonal Baghel via Li.
+	
+Sonal just messaged you
+ - 1 new message awaits your response ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Unsubscribe
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, LinkedIn, Vandana Singh, you have new application
+updates this week, Mar 13, Check out the status of your applications on
+LinkedIn ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+LinkedIn
+	
+Vandana Singh, you have new application updates this week
+ - Check out the status of your applications on LinkedIn ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Unsubscribe
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Uplers, Your dream career awaits! Complete your
+registration and make it a reality!, Mar 13, Hello Vandana Singh Yadav,
+Picture this: Your dream job, just a few clicks away. But first, we need
+you to complete your registration on Uplers! Complete your registration
+now Finish your registration.
+Uplers
+	
+Your dream career awaits! Complete your registration and make it a reality!
+ - Hello Vandana Singh Yadav, Picture this: Your dream job, just a few
+clicks away. But first, we need you to complete your registration on
+Uplers! Complete your registration now Finish your registration
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Aakriti Dubey via L., Aakriti just messaged you,
+Mar 13, 1 new message awaits your response ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+Aakriti Dubey via L.
+	
+Aakriti just messaged you
+ - 1 new message awaits your response ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Unsubscribe
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Indeed, 1 new Python Django Internship Fresher
+vacancy, Mar 13, Oxi.Ai Academy has an opportunity for you! ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌.
+Indeed
+	
+1 new Python Django Internship Fresher vacancy
+ - Oxi.Ai Academy has an opportunity for you! ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+Unsubscribe
+		 	Mar 13	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Naukri.com info, Status of your job application has
+changed, Mar 12, The status of your job application has changed! There
+has been recruiter activity on your job application(s). Check out what
+the updated status is now! naukri.com Get app Hi Vandana Singh Yadav,
+Status.
+Naukri.com info
+	
+Status of your job application has changed
+ - The status of your job application has changed! There has been
+recruiter activity on your job application(s). Check out what the
+updated status is now! naukri.com Get app Hi Vandana Singh Yadav, Status
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	Internshala, Techeir/Konseptrix Analytics is promoting
+Software Tester/ Frontend Developer role!, Mar 12, Vandana, check out
+opportunities matching your experience and desired CTC. Apply for free
+on Internshala Jobs ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌.
+Internshala
+	
+Techeir/Konseptrix Analytics is promoting Software Tester/ Frontend
+Developer role!
+ - Vandana, check out opportunities matching your experience and desired
+CTC. Apply for free on Internshala Jobs ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	LinkedIn, Your application was viewed by TOTL RPO SOLUTIONS
+LLP, Mar 12, Your application was viewed by TOTL RPO SOLUTIONS LLP ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+LinkedIn
+	
+Your application was viewed by TOTL RPO SOLUTIONS LLP
+ - Your application was viewed by TOTL RPO SOLUTIONS LLP ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Unsubscribe
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, LinkedIn, 2 new connections, Mar 12, See Aquib's
+and other people's connections, experience, and more LinkedIn Vandana
+Singh Yadav You have 2 new connections Check out their profiles and
+start a conversation Aquib Siddique.
+LinkedIn
+	
+2 new connections
+ - See Aquib's and other people's connections, experience, and more
+LinkedIn Vandana Singh Yadav You have 2 new connections Check out their
+profiles and start a conversation Aquib Siddique
+Unsubscribe
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, LinkedIn, Vandana Singh, your application was sent
+to TOTL RPO SOLUTIONS LLP, Mar 12, Your application was sent to TOTL RPO
+SOLUTIONS LLP‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌.
+LinkedIn
+	
+Vandana Singh, your application was sent to TOTL RPO SOLUTIONS LLP
+ - Your application was sent to TOTL RPO SOLUTIONS LLP‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+Unsubscribe
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	Internshala Clubs, [New Event] 📢 Build A Career In
+Advertising With Malvika Thirani, Mar 12, Join us for this free event
+exclusive to members of the Placement Club in IS Clubs. 📢 Build A
+Career in Advertising Speaker: Malvika Thirani, Senior Copywriter,
+Talented.Agency Time: 12th Mar, 5:00 PM.
+Internshala Clubs
+	
+[New Event] 📢 Build A Career In Advertising With Malvika Thirani
+ - Join us for this free event exclusive to members of the Placement
+Club in IS Clubs. 📢 Build A Career in Advertising Speaker: Malvika
+Thirani, Senior Copywriter, Talented.Agency Time: 12th Mar, 5:00 PM
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	Instagram, New login to Instagram from Instagram on Samsung
+SM-A105F, Mar 12, We noticed a new login, chauhan._.aradhya We noticed a
+login from a device you don't usually use. Samsung SM-A105F · Instagram
+· Bhayandar, India March 12 at 2:29 AM (PDT) If this was you, you won.
+Instagram
+	
+New login to Instagram from Instagram on Samsung SM-A105F
+ - We noticed a new login, chauhan._.aradhya We noticed a login from a
+device you don't usually use. Samsung SM-A105F · Instagram · Bhayandar,
+India March 12 at 2:29 AM (PDT) If this was you, you won
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	LinkedIn Job Alerts, 5 new jobs for “web developer”, Mar
+12, Hemped Souls International LLP Web Developer: Profile –Web Developer
+Experience – 6 months to 1… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏.
+LinkedIn Job Alerts
+	
+5 new jobs for “web developer”
+ - Hemped Souls International LLP Web Developer: Profile –Web Developer
+Experience – 6 months to 1… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏
+Unsubscribe
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Internshala Trainin., Vandana, where are you? We
+tried calling you! , Mar 12, Hey Vandana We notice you didn't pick up
+our call. Did you accidentally leave your phone upside-down? This call
+was to understand your interest in Full Stack Development and how we
+could help you.
+Internshala Trainin.
+	
+Vandana, where are you? We tried calling you! 
+ - Hey Vandana We notice you didn't pick up our call. Did you
+accidentally leave your phone upside-down? This call was to understand
+your interest in Full Stack Development and how we could help you
+Unsubscribe
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Sonal Baghel via Li., Sonal just messaged you, Mar
+12, You have 1 new message request ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+Sonal Baghel via Li.
+	
+Sonal just messaged you
+ - You have 1 new message request ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Unsubscribe
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, LinkedIn, Your application to Frontend Developer at
+Axtria - Ingenious Insights, Mar 12, Your application to Frontend
+Developer at Axtria - Ingenious Insights ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+LinkedIn
+	
+Your application to Frontend Developer at Axtria - Ingenious Insights
+ - Your application to Frontend Developer at Axtria - Ingenious Insights
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Unsubscribe
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, LinkedIn, Your application to Python Developer at
+Jay TechnoChem, Mar 12, Your application to Python Developer at Jay
+TechnoChem ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+LinkedIn
+	
+Your application to Python Developer at Jay TechnoChem
+ - Your application to Python Developer at Jay TechnoChem ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Unsubscribe
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Krishna Yadav (via ., Share request for
+"AUD-20240311-WA0005.aac", Mar 12, Share an item? Krishna Yadav
+(krishnayadav2275@gmail.com) is requesting access to the following item:
+AUD-20240311-WA0005.aac Manage sharing Google LLC, 1600 Amphitheatre
+Parkway, Mountain View, CA.
+Krishna Yadav (via .
+	
+Share request for "AUD-20240311-WA0005.aac"
+ - Share an item? Krishna Yadav (krishnayadav2275@gmail.com) is
+requesting access to the following item: AUD-20240311-WA0005.aac Manage
+sharing Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA
+Attachment:AUD-20240311-WA0005.aac
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Krishna Yadav (via ., Share request for
+"AUD-20240311-WA0005.aac", Mar 12, Share an item? Krishna Yadav
+(krishnayadav2275@gmail.com) is requesting access to the following item:
+AUD-20240311-WA0005.aac Manage sharing Google LLC, 1600 Amphitheatre
+Parkway, Mountain View, CA.
+Krishna Yadav (via .
+	
+Share request for "AUD-20240311-WA0005.aac"
+ - Share an item? Krishna Yadav (krishnayadav2275@gmail.com) is
+requesting access to the following item: AUD-20240311-WA0005.aac Manage
+sharing Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA
+Attachment:AUD-20240311-WA0005.aac
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Krishna Yadav (via ., Share request for
+"AUD-20240311-WA0005.aac", Mar 12, Share an item? Krishna Yadav
+(krishnayadav2275@gmail.com) is requesting access to the following item:
+AUD-20240311-WA0005.aac Manage sharing Google LLC, 1600 Amphitheatre
+Parkway, Mountain View, CA.
+Krishna Yadav (via .
+	
+Share request for "AUD-20240311-WA0005.aac"
+ - Share an item? Krishna Yadav (krishnayadav2275@gmail.com) is
+requesting access to the following item: AUD-20240311-WA0005.aac Manage
+sharing Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA
+Attachment:AUD-20240311-WA0005.aac
+		 	Mar 12	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Internshala, Student, turn your free time into
+cash!💰, Mar 11, Hey! Are you ready to make some extra money in your
+free time? These part-time roles are perfect for someone who's looking
+to earn some quick cash by working for just 2-3 hours a day. Not just this.
+Internshala
+	
+Student, turn your free time into cash!💰
+ - Hey! Are you ready to make some extra money in your free time? These
+part-time roles are perfect for someone who's looking to earn some quick
+cash by working for just 2-3 hours a day. Not just this
+Unsubscribe
+		 	Mar 11	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Internshala Trainin., 😓 Rejected resume Vandana?
+Let's fix that!, Mar 11, Hey Vandana, Ever wonder how you can beat the
+competition and get that dream job? Well, we understand how draining job
+hunting can be and we are here to fix just that! Our Full Stack Development.
+Internshala Trainin.
+	
+😓 Rejected resume Vandana? Let's fix that!
+ - Hey Vandana, Ever wonder how you can beat the competition and get
+that dream job? Well, we understand how draining job hunting can be and
+we are here to fix just that! Our Full Stack Development
+		 	Mar 11	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Unstop, Recruiters are looking for you! 👀 Complete
+your profile now 🪪, Mar 11, Hey Vandana Singh, Companies are on the
+lookout for a talent like you but your profile looks weak! 😥 Complete
+your profile and get discovered by recruiters today. Complete My Profile
+Remember to.
+Unstop
+	
+Recruiters are looking for you! 👀 Complete your profile now 🪪
+ - Hey Vandana Singh, Companies are on the lookout for a talent like you
+but your profile looks weak! 😥 Complete your profile and get discovered
+by recruiters today. Complete My Profile Remember to
+		 	Mar 11	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Internshala, ESSI Integrated Technologies is hiring
+Backend Development intern | Apply Now, Mar 11, Vandana, check out
+opportunities matching your experience and desired CTC. Apply for free
+on Internshala Jobs ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌.
+Internshala
+	
+ESSI Integrated Technologies is hiring Backend Development intern |
+Apply Now
+ - Vandana, check out opportunities matching your experience and desired
+CTC. Apply for free on Internshala Jobs ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+		 	Mar 11	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Internshala Trainin., Hey Vandana, is your resume
+getting ignored?, Mar 11, Craft a stand-out resume & make recruiters
+stop & stare! Stop wasting time! Get your resume noticed today with
+these pro tips. Internshala Trainings Vandana Internshala (Scholiverse
+Educare Pvt.
+Internshala Trainin.
+	
+Hey Vandana, is your resume getting ignored?
+ - Craft a stand-out resume & make recruiters stop & stare! Stop wasting
+time! Get your resume noticed today with these pro tips. Internshala
+Trainings Vandana Internshala (Scholiverse Educare Pvt
+Unsubscribe
+		 	Mar 11	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, LinkedIn Job Alerts, 1 new job for “web developer”,
+Mar 11, Mapping Metrics® - AI Powered Lead Web Developer - Reactjs:
+Actively recruiting ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+LinkedIn Job Alerts
+	
+1 new job for “web developer”
+ - Mapping Metrics® - AI Powered Lead Web Developer - Reactjs: Actively
+recruiting ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Unsubscribe
+		 	Mar 11	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Naukri Alerts, Vandana Singh Yadav, Immediate
+Requirement for Backend Developer, Software Developer Intern, Associate
+Software Developer, Mar 11, MEAN Stack Developer naukri.com Get App
+Seize all job opportunities of this week! MEAN Stack Developer OnGraph
+Technologie... Noida Jobs outside your preference G Backend Developer
+Gomassive Earth.
+Naukri Alerts
+	
+Vandana Singh Yadav, Immediate Requirement for Backend Developer,
+Software Developer Intern, Associate Software Developer
+ - MEAN Stack Developer naukri.com Get App Seize all job opportunities
+of this week! MEAN Stack Developer OnGraph Technologie... Noida Jobs
+outside your preference G Backend Developer Gomassive Earth
+		 	Mar 11	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Naukri Alerts, New job - Web Developer | More jobs
+matching your Custom Job Alert - Web Designer For A Startup Company, Mar
+11, Web Developer naukri.com Get App Jobs matching your job alert Web
+Designer For A Startup Company Web Developer Inficare 3.8 Noida(Sector-2
+No... Walk-in job D Web Designer - Mobile Application.
+Naukri Alerts
+	
+New job - Web Developer | More jobs matching your Custom Job Alert - Web
+Designer For A Startup Company
+ - Web Developer naukri.com Get App Jobs matching your job alert Web
+Designer For A Startup Company Web Developer Inficare 3.8 Noida(Sector-2
+No... Walk-in job D Web Designer - Mobile Application
+		 	Mar 11	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, Uplers, Take the leap! Finish your registration and
+soar to success!, Mar 11, Hello Vandana Singh Yadav, Ready to
+supercharge your career? We're waiting for you to complete your
+registration on Uplers! Complete registration now: Complete Registration
+By finishing your.
+Uplers
+	
+Take the leap! Finish your registration and soar to success!
+ - Hello Vandana Singh Yadav, Ready to supercharge your career? We're
+waiting for you to complete your registration on Uplers! Complete
+registration now: Complete Registration By finishing your
+		 	Mar 11	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, LinkedIn, Your application to Back End Developer
+(Python & MySQL) at ELife, Mar 10, Your application to Back End
+Developer (Python & MySQL) at ELife ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+LinkedIn
+	
+Your application to Back End Developer (Python & MySQL) at ELife
+ - Your application to Back End Developer (Python & MySQL) at ELife ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Unsubscribe
+		 	Mar 10	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, LinkedIn, Vandana Singh, your profile photo was
+changed, Mar 10, Vandana Singh, your profile photo was changed ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+LinkedIn
+	
+Vandana Singh, your profile photo was changed
+ - Vandana Singh, your profile photo was changed ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+		 	Mar 10	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, LinkedIn, New device registration for Remember me,
+Mar 10, ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+LinkedIn
+	
+New device registration for Remember me
+ - ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+		 	Mar 10	
+
+  *
+  *
+  *
+*
+
+	
+	
+	Not starred	unread, LinkedIn, Vandana Singh, your password was
+successfully reset, Mar 10, Vandana Singh, your password was
+successfully reset ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.
+LinkedIn
+	
+Vandana Singh, your password was successfully reset
+ - Vandana Singh, your password was successfully reset ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+		 	Mar 10	
+
+  *
+  *
+  *
+*
+
+	
+
+Your Top Discounts
+
+
+      Promotions
+
+ 
+ 
+Your Promotions tab is empty.
+
+Marketing, interests, social and political causes, and other promotional
+emails will be shown here.
+
+To add or remove tabs click inbox settings.
+
+Remaining Promotions Email
+
+
+      Social
+
+ 
+ 
+Your Social tab is empty.
+
+Emails from social networks, media-sharing sites, dating services and
+other social sites will be shown here.
+
+To add or remove tabs click inbox settings.
+
+0.82 GB of 15 GB used
+<https://drive.google.com/u/1/settings/storage?
+hl=en&utm_medium=web&utm_source=gmail&utm_campaign=storage_meter&utm_content=storage_normal>
+Terms <https://www.google.com/intl/en/policies/terms/> · Privacy
+<https://www.google.com/intl/en/policies/privacy/> · Program Policies
+<https://www.google.com/gmail/about/policy/>
+Last account activity: 13 hours ago
+Details
+
+
+    Contacts
+
+
+      Loading...
+
+Search
+Clear search
+Close search
+Hide main menu
+Google apps
+Google Account
+Vandana Singh Yadav
+vandanayadav99390@gmail.com
+
+  * English
+  * English Dvorak
+  * English
+  * English
+  * Show Keyboard
+  * Hide Keyboard
+  * Input Tools Settings
+
+Loading…
+{"id": "", "title": "forms.py.txt", "mimeType": "text\/plain"}
+
+# forms.py
+from django import forms
+
+class ContactForm(forms.Form):
+    name = forms.CharField(max_length=100)
+    email = forms.EmailField()
+    message = forms.CharField(widget=forms.Textarea)
+
+# views.py
+from django.shortcuts import render
+from .forms import ContactForm
+
+def contact_view(request):
+    if request.method == 'POST':
+        form = ContactForm(request.POST)
+        if form.is_valid():
+            # Process the form data
+            name = form.cleaned_data['name']
+            email = form.cleaned_data['email']
+            message = form.cleaned_data['message']
+            # Perform further actions (e.g., send email, save to database)
+            # Redirect or display success message
+    else:
+        form = ContactForm()
+    return render(request, 'contact.html', {'form': form})
+
+# contact.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact Form</title>
+</head>
+<body>
+    <h1>Contact Us</h1>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
+
+forms.py.txt
+forms.py.txt
+Open
+Open
+Extract
+Open with
+Details
+Comments
+General Info
+Type
+Text
+Dimensions
+Size
+1 KB
+Duration
+Location
+Modified
+Created
+Opened by me
+Sharing
+Description
+Download Permission
+Loading…
+Displaying forms.py.txt.

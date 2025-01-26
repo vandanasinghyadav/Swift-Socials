@@ -1,0 +1,55 @@
+{% load static %}
+{% include 'header.html' %}
+<!-- Page Content  -->
+<head>
+  <title>login page</title>
+  <link type="text/css" rel="stylesheet" href="{% static 'css/signup.css' %}"/>
+</head>
+<body>
+  <div id="content" class="p-4 p-md-5 pt-5">
+    <h1><p align="center" class="text-info bg-warning">SWIFT-SOCIALS</p></h1>
+        <center>
+          <h2 class="text-danger">Embrace your strength,defy the odds!! </h2>
+          <h3 class="text-dark">You're unstoppable.....</h3>
+        </center>
+    <div class="login" style="min-height:600px">
+      <div class="profile"><img src="{% static 'images/profile.jpg' %}"/></div>
+        <form action="/success2">
+          <table>
+            <tr align="center">
+              <th><b id="b1">Sign-Up</b></th>
+            </tr>
+			<tr>
+				<td><input type="text" name="name" placeholder="Enter Your Name"/></td>
+			  </tr>
+            <tr>
+              <td><input type="email" name="email" placeholder="Your Email Address"/></td>
+            </tr>
+            <tr>
+              <td><input type="password" name="password" placeholder="Your Password"/></td>
+            </tr>
+            <tr>
+              <td>
+                <br/>
+                  <input id="ch1" type="checkbox" required/><label for="ch1">Agree With</label>
+                  <a href="#">Terms & Condition</a>
+              </td>
+            </tr>
+             <tr>
+              <td><input type="submit" value="Sign-Up"/></td>
+            </tr>
+            <tr>
+              <td>
+                  <label for="ch1">Already a Member?</label>
+                  <a href="/">login</a>
+              </td>
+            </tr>
+          </table>
+        </form>
+      </div>
+    </div>
+  </body>
+  </html>
+
+
+   {% include 'footer.html' %}

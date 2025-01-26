@@ -1,0 +1,53 @@
+{% load static %}
+{% include 'header.html' %}
+<!-- Page Content  -->
+<head>
+  <title>login page</title>
+  <link type="text/css" rel="stylesheet" href="{% static 'css/login.css' %}"/>
+</head>
+<body>
+  <div id="content" class="p-4 p-md-5 pt-5">
+    <h1><p align="center" class="text-info bg-warning">SWIFT-SOCIALS</p></h1>
+        <center>
+          <h2 class="text-danger">Embrace your strength,defy the odds!! </h2>
+          <h3 class="text-succes">You're unstoppable.....</h3>
+        </center>
+    <div class="login">
+      <div class="profile"><img src="{% static 'images/profile.jpg' %}"/></div>
+        <form method="post" action="/" >
+          {% csrf_token %}
+          <table>
+            <tr align="center">
+              <th><b id="b1">LOGIN WINDOW</b></th>
+            </tr>
+            <tr>
+              <td><input type="email" name="myemail" placeholder="Your Email Address" required/></td>
+            </tr>
+            <tr>
+              <td><input type="password" name="password" placeholder="Your Password" required/></td>
+            </tr>
+            <tr>
+              <td>
+                <br/>
+                  <input id="ch1" type="checkbox" name="ch1" required/><label for="ch1">Agree With</label>
+                  <a href="#">Terms & Condition</a>
+              </td>
+            </tr>
+             <tr>
+              <td><input type="submit" name="login" value="Login"/></td>
+            </tr>
+            <tr>
+              <td>
+                  <label for="ch1">Dont have an account?</label>
+                  <a href="signup/">Sign-up</a>
+              </td>
+            </tr>
+          </table>
+        </form>
+      </div>
+    </div>
+  </body>
+  </html>
+
+
+   {% include 'footer.html' %}

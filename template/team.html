@@ -1,0 +1,23 @@
+{% load static %}
+{% include 'header.html' %}
+{% include 'sidebar.html' %}
+<!-- Page Content  -->
+<div id="content" class="p-4 p-md-5 pt-5">
+    <h1><p align="center" class="text-info bg-dark">MYTEAM</p></h1></br></br>
+<div class="card-group">
+    {% for b in team_list %}
+    <div class="card">
+        <img src="{{ b.team_pic.url }}" class="card-img-top" title="{{ b.team_title }}"/>
+        <div class="card-body">
+          <h5 class="card-title" align="center">{{ b.team_name }} <br>({{ b.team_title }})</h5>
+          <a class="btn btn-primary" href="/team_details/{{ b.id }}">Click to view</a>
+        </div>
+      </div>
+    {% endfor %}
+
+
+   
+    
+
+
+{% include 'footer.html' %}
